@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+d230ad1b-f473-48fc-8ca3-434d630ad1f2	\N	case	60cf1724-5fc8-4c3a-850b-ce3778147c91	General	Notification	2021-04-28T12:20:43.971976-05:00	Approved	Non-CCRCC/Rare Kidney tumors: Papillary and partially clear cell carcinoma of the left kidney

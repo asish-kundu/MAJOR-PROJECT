@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+d8f7887b-69a6-44cb-a1e7-ee988e981538	\N	case	b9ad2bb6-8d21-474a-8cd1-2a4c49a169ec	General	Notification	2021-04-28T12:20:28.406335-05:00	Approved	Non-CCRCC/Rare Kidney tumors: Renal cell carcinoma, chromophobe cell type

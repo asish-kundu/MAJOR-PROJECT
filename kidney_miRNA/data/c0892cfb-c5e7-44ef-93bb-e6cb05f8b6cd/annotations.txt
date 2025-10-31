@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+307aaea9-0c05-4a30-8599-5f9ab080f4b6	\N	case	83a1b337-49a7-4fa8-9424-65a6272a1ec8	General	Notification	2021-04-28T12:20:26.476546-05:00	Approved	Non-CCRCC/Rare Kidney tumors: Renal cell tumor of Birt-Hogg-Dube syndrome

@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+c7761e05-f4d1-409a-a288-f166161a5db2	\N	case	af85d94e-6352-4baf-9fc4-9dc8d7ded612	General	Notification	2021-04-28T12:20:40.093598-05:00	Approved	Non-CCRCC/Rare Kidney tumors: Angiomyolipoma

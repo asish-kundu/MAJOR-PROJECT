@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+fb7cf2e2-6408-4def-bc2b-c2a00bca6db4	\N	case	5a94eb3d-5475-4866-9632-90871da82950	General	Notification	2021-04-28T12:20:23.506167-05:00	Approved	Non-CCRCC/Rare Kidney tumors: Unclassifiable renal neoplasm

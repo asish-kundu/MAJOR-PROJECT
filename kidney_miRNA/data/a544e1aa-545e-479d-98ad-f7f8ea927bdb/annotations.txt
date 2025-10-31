@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+9569716a-ed05-4e10-928f-44a62d7788c3	\N	aliquot	780ece72-1465-41f6-a95c-950293545921	General	Notification	2020-10-07T08:23:57.640583-05:00	Approved	Duplicate item: CCRCC Tumor heterogeneity study aliquot

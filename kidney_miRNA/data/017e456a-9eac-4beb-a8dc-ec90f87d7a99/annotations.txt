@@ -1,0 +1,7 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+648d94fd-b6ac-4530-8e83-5250c936f603	\N	aliquot	e8364cfa-98eb-5f75-aced-e8faa8c43b33	General	Notification	2022-08-08T12:39:35.292615-05:00	Approved	The RNA-Seq data for this aliquot failed the GDC harmonization pipeline.
+1ef7f5d3-f629-4ab5-9b97-4a596a94a7ff	\N	aliquot	e8364cfa-98eb-5f75-aced-e8faa8c43b33	General	Notification	2022-08-08T12:39:35.292615-05:00	Approved	The RNA-Seq data for this aliquot failed the GDC harmonization pipeline.
+f63e2d65-e76f-451d-b729-de836d960577	\N	aliquot	e8364cfa-98eb-5f75-aced-e8faa8c43b33	General	Notification	2022-08-08T12:39:35.292615-05:00	Approved	The RNA-Seq data for this aliquot failed the GDC harmonization pipeline.
+4a577503-4236-428a-8bdf-47261cb929d7	\N	aliquot	e8364cfa-98eb-5f75-aced-e8faa8c43b33	General	Notification	2022-08-08T12:39:35.292615-05:00	Approved	The RNA-Seq data for this aliquot failed the GDC harmonization pipeline.
+c63aa83f-6291-40e3-af2e-5802aa0739de	\N	aliquot	e8364cfa-98eb-5f75-aced-e8faa8c43b33	General	Notification	2022-08-08T12:39:35.292615-05:00	Approved	The RNA-Seq data for this aliquot failed the GDC harmonization pipeline.
+ee96dc29-ea6c-4c5e-b0ae-2c6e4885843d	\N	aliquot	e8364cfa-98eb-5f75-aced-e8faa8c43b33	General	Notification	2022-08-08T12:39:35.292615-05:00	Approved	The RNA-Seq data for this aliquot failed the GDC harmonization pipeline.

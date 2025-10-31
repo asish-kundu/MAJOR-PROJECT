@@ -1,0 +1,35 @@
+Classifier: SVM
+Mean Accuracy: 0.54
+Minimum Accuracy: 0.4
+Maximum Accuracy: 0.8
+
+Classifier: ANN
+Mean Accuracy: 0.55
+Minimum Accuracy: 0.4
+Maximum Accuracy: 0.9
+
+Classifier: KNN
+Mean Accuracy: 0.57
+Minimum Accuracy: 0.3
+Maximum Accuracy: 1.0
+
+Classifier: DT
+Mean Accuracy: 0.6
+Minimum Accuracy: 0.4
+Maximum Accuracy: 0.8
+
+Classifier: RF
+Mean Accuracy: 0.53
+Minimum Accuracy: 0.4
+Maximum Accuracy: 0.7
+
+Classifier: NB
+Mean Accuracy: 0.5499999999999999
+Minimum Accuracy: 0.2
+Maximum Accuracy: 0.8
+
+Classifier: DISCR
+Mean Accuracy: 0.5800000000000001
+Minimum Accuracy: 0.2
+Maximum Accuracy: 0.8
+

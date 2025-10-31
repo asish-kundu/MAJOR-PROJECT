@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+7d2d6fa4-4e58-4b98-894c-de3f8a4046ec	\N	case	cfc3dba9-b0bd-498c-b8fc-33b80a7af835	General	Notification	2021-04-28T12:20:45.013261-05:00	Approved	Non-CCRCC/Rare Kidney tumors: Papillary carcinoma

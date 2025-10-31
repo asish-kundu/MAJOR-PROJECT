@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+7629d994-a114-40c8-bf0e-37c9655c6bb7	\N	case	26f5c62f-fe00-46c9-8058-8604c0f37e57	General	Notification	2021-04-28T12:20:33.765497-05:00	Approved	Non-CCRCC/Rare Kidney tumors: Papillary type 1

@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+0dd2f2fe-5c39-4954-be70-3c5ecddcab8d	\N	aliquot	2ce08b9c-36dd-4c3e-ad85-70fd9936bb3e	General	Notification	2020-11-18T16:26:01.621191-06:00	Approved	Duplicate item: Additional RNA requested

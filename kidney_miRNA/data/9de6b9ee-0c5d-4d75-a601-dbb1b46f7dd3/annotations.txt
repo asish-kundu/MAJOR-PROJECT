@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+086dcf8f-9166-4d6d-8aa2-f9c9389be179	\N	case	bbffcd51-e154-4d7b-8d27-6183f5083653	General	Notification	2021-04-28T12:20:38.063670-05:00	Approved	Non-CCRCC/Rare Kidney tumors: Mixed epithelial and stromal lesion

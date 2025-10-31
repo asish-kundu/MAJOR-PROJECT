@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+8079219e-cc47-4322-8dce-9fb6e74a54c2	\N	aliquot	33c921ea-b743-4d32-9c56-875de6028c71	General	Notification	2020-11-18T16:26:01.621191-06:00	Approved	Duplicate item: Replacement RNA Distribution - original aliquot failed

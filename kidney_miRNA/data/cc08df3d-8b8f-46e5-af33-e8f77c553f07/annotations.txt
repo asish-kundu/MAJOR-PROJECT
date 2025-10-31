@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+23cb0cb6-20d0-4e59-83b1-eff2cdbfdb6c	\N	case	d7f19a25-e379-4977-8be7-19daefb60acc	General	Notification	2021-04-28T12:20:25.506700-05:00	Approved	Non-CCRCC/Rare Kidney tumors: Eosinophilic renal neoplasm, likely oncocytoma

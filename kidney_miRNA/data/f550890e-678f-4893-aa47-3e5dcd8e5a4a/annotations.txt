@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+1321c9a4-7573-473e-a519-5982aac6f775	\N	case	325f0d77-8f5a-499f-b6b4-92e2ad0b3cab	General	Notification	2021-04-28T12:20:24.547827-05:00	Approved	Non-CCRCC/Rare Kidney tumors: Renal cell carcioma, papillary type 1

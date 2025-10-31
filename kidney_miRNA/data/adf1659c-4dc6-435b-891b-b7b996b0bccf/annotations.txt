@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+94ad505f-add1-402c-8189-61c94f125ced	\N	case	548052b1-d4a4-42cf-8dfd-3910bdd5289c	General	Notification	2021-04-28T12:20:43.067024-05:00	Approved	Non-CCRCC/Rare Kidney tumors: Oncocytoma
